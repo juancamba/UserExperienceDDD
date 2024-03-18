@@ -1,0 +1,12 @@
+UserExperience.Api/obj/*
+UserExperience.Api/bin/*
+UserExperience.Application/obj/*
+UserExperience.Application/bin/*
+UserExperience.Domain/obj/*
+UserExperience.Domain/bin/*
+UserExperience.Infra/obj/*
+UserExperience.Infra/bin/*
+UserExperience.Infrastructure/obj/*
+UserExperience.Infrastructure/bin/*
+UserExperienceApplication.Tests/obj/*
+UserExperienceApplication.Tests/bin/*
